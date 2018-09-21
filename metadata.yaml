@@ -1,0 +1,49 @@
+_repo: Pikku-lordi_53789
+_version: 0.0.1
+alternative_title: Little Lord Fauntleroy. Finnish
+contributor:
+  translator:
+    agent_name: Krohn, Helmi
+    aliases:
+    - Setälä, Helmi
+    - Setala, Helmi
+    - Helmi Setälä
+    birthdate: 1871
+    deathdate: 1967
+    gutenberg_agent_id: '31724'
+    url: http://www.gutenberg.org/2009/agents/31724
+creator:
+  author:
+    agent_name: Burnett, Frances Hodgson
+    aliases:
+    - Townesend, Frances Eliza Hodgson Burnett
+    - Hodgson, Frances Eliza
+    birthdate: 1849
+    deathdate: 1924
+    gutenberg_agent_id: '73'
+    url: http://www.gutenberg.org/2009/agents/73
+    wikipedia: http://en.wikipedia.org/wiki/Frances_Hodgson_Burnett
+description: ''
+gutenberg_issued: '2016-12-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53789'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Inheritance and succession -- Juvenile fiction'
+- !lcsh 'Altruism -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Family -- Juvenile fiction'
+- !lcsh 'Grandparent and child -- Juvenile fiction'
+- !lcsh 'England -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Children -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Grandfathers -- Juvenile fiction'
+- !lcsh 'Mother and child -- Juvenile fiction'
+- !lcsh 'Wealth -- Juvenile fiction'
+- GITenberg
+title: Pikku lordi
+url: http://www.gutenberg.org/ebooks/53789
